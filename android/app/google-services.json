@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473938867771",
+    "project_id": "toeflpractice-445c6",
+    "storage_bucket": "toeflpractice-445c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473938867771:android:c1040af03cb851d5948e1e",
+        "android_client_info": {
+          "package_name": "com.qatechstudio.toeflpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473938867771-64gbtaoh2qp8svihfui6m0oujgnfedqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qatechstudio.toeflpractice",
+            "certificate_hash": "829d7e96d0f2bfd38e92b0c5b147fc23a748a743"
+          }
+        },
+        {
+          "client_id": "473938867771-0doaivudcnm5blk0anhoojhrs7qful1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9qjsj8CnWQdmGRSSOllpdQhrZN9IfimY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473938867771-0doaivudcnm5blk0anhoojhrs7qful1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
